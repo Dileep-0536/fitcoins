@@ -1,0 +1,11 @@
+<html>
+<head>
+<title> hello world </title>
+</head>
+<body>
+Hello world
+<?php
+echo"this is php demo"
+?>
+</body>
+</html>
